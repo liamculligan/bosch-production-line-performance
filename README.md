@@ -9,7 +9,7 @@ Each part was labelled as either passing quality control (Response = 0) or faili
 The team, Arrested Development, consisted of [Tyrone Cragg] (https://github.com/tyronecragg) and [Liam Culligan] (https://github.com/liamculligan).
 
 ## Performance
-The solution obtained a rank of [39th out of 1391 teams] (https://www.kaggle.com/c/bosch-production-line-performance/leaderboard/private). with a private leaderboard score of 0.48726. <br> The 5-fold cross validation Matthew's Correlation Coefficient was 0.477665, with a standard deviation of 0.006978.
+The solution obtained a rank of [39th out of 1391 teams] (https://www.kaggle.com/c/bosch-production-line-performance/leaderboard/private). with a private leaderboard score of 0.48726. <br> The 5-fold cross validation Matthew's Correlation Coefficient was 0.47767, with a standard deviation of 0.00698.
 
 ## Execution
 1. Create a working directory for the project <br>
