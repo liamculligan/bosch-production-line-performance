@@ -24,12 +24,12 @@ The solution obtained a rank of [39th out of 1391 teams] (https://www.kaggle.com
 4.6 `StationTime.R` <br>
 4.7 `DateRolling.R` <br>
 5. Run the Stage 0 model scripts for the stacked generalisation: <br>
-5.1 `XGB1.R` <br>
-5.2 `XGB2.R` <br>
-5.3 `XGB3.R` <br>
-5.4 `XGB4.R` <br>
-5.5 `XGB5.R` <br>
-5.6 `XGB6.R` <br>
+5.1 `XGB1 Train.R` and `XGB1 Test.R` <br>
+5.2 `XGB2 Train.R` and `XGB2 Test.R` <br>
+5.3 `XGB3 Train.R` and `XGB3 Test.R` <br>
+5.4 `XGB4 Train.R` and `XGB4 Test.R` <br>
+5.5 `XGB5 Train.R` and `XGB5 Test.R` <br>
+5.6 `XGB6 Train.R` and `XGB6 Test.R` <br>
 6. Run the Stage 1 model script, `XGB Stage 1.R`
 
 ## Requirements
