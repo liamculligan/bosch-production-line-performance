@@ -5,18 +5,18 @@
 The goal of this competition was to predict internal failures based on thousands of measurements and tests made for each component along the assembly line, using one of the largest datasets hosted on Kaggle to date. <br>
 Each part was labelled as either passing quality control (Response = 0) or failing quality control (Response = 1) and model predictions were evaluated using [Matthew's Correlation Coefficient] (https://www.kaggle.com/c/bosch-production-line-performance/details/evaluation).
 
-## Team Meambers
+## Team Members
 The team, Arrested Development, consisted of [Tyrone Cragg] (https://github.com/tyronecragg) and [Liam Culligan] (https://github.com/liamculligan).
 
 ## Solution Architecture
 ![Solution Architecture](https://github.com/liamculligan/bosch-production-line-performance/blob/master/Solution%20Architecture.jpg?raw=true "Solution Architecture")
 
 ## Performance
-The solution obtained a rank of [38th out of 1373 teams] (https://www.kaggle.com/c/bosch-production-line-performance/leaderboard/private). with a private leaderboard score of 0.48726. <br> The 5-fold cross validation Matthew's Correlation Coefficient was 0.47767, with a standard deviation of 0.00698.
+The solution obtained a rank of [38th out of 1373 teams] (https://www.kaggle.com/c/bosch-production-line-performance/leaderboard/private) with a private leaderboard score of 0.48726. <br> The 5-fold cross validation Matthew's Correlation Coefficient was 0.47767, with a standard deviation of 0.00698.
 
 ## Execution
 1. Create a working directory for the project <br>
-2. [Download the data from Kaggle] (https://www.kaggle.com/c/bosch-production-line-performance/data) and place in the working directory.
+2. [Download the data from Kaggle] (https://www.kaggle.com/c/bosch-production-line-performance/data) and place in the working directory
 3. Run `PreProcess.R`
 4. Run feature engineering scripts: <br>
 4.1 `SortFeatures1.py` <br>
